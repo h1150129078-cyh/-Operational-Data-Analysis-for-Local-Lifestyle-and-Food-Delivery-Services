@@ -10,6 +10,7 @@
 ## 📊 项目展示
 
 https://github.com/h1150129078-cyh/-Operational-Data-Analysis-for-Local-Lifestyle-and-Food-Delivery-Services/blob/main/tableau_screenshot
+https://raw.githubusercontent.com/h1150129078-cyh/-Operational-Data-Analysis-for-Local-Lifestyle-and-Food-Delivery-Services/main/tableau_screenshot
 
 **交互式看板链接：**[点击此处访问完整的Tableau动态看板](这里替换成你的Tableau Public看板链接)
 
