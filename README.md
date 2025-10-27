@@ -12,8 +12,7 @@
 [https://raw.githubusercontent.com/h1150129078-cyh/-Operational-Data-Analysis-for-Local-Lifestyle-and-Food-Delivery-Services/main/tableau_screenshot.png]  (Tableau Public看板截图照片链接)
 
 
-**交互式看板链接：**[https://public.tableau.com/views/_17615666463500/sheet10?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]  (Tableau Public(全数据+字段))
-
+**交互式看板链接：**[https://public.tableau.com/views/_17615666463500/sheet10?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link] 
 ---
 
 ## 📋 项目背景
@@ -66,7 +65,6 @@
 ## 📁 项目文件
 - `visualization/`：Tableau工作簿文件（.twbx）
 - `analysis/`：本分析报告（README.md）
-- `data/`：（因保密协议，原始数据未公开，本项目使用模拟数据）
 
 ---
 *本项目为数据分析作品，结论基于给定数据得出，旨在展示数据分析方法论与业务洞察力。*
