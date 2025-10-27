@@ -12,7 +12,7 @@
 [https://raw.githubusercontent.com/h1150129078-cyh/-Operational-Data-Analysis-for-Local-Lifestyle-and-Food-Delivery-Services/main/tableau_screenshot.png]  (Tableau Public看板截图照片链接)
 
 
-**交互式看板链接：**[https://public.tableau.com/views/_17615666463500/sheet10?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](Tableau Public(全数据+字段))
+**交互式看板链接：**[https://public.tableau.com/views/_17615666463500/sheet10?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]  (Tableau Public(全数据+字段))
 
 ---
 
