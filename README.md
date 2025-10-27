@@ -9,7 +9,7 @@
 
 ## 📊 项目展示
 
-[![Tableau Dashboard](这里替换成你的Tableau看板截图图片链接)](这里替换成你的Tableau Public看板链接)
+https://github.com/h1150129078-cyh/-Operational-Data-Analysis-for-Local-Lifestyle-and-Food-Delivery-Services/blob/main/tableau_screenshot
 
 **交互式看板链接：**[点击此处访问完整的Tableau动态看板](这里替换成你的Tableau Public看板链接)
 
