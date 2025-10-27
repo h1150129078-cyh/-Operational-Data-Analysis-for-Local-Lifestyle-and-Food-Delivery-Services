@@ -1,2 +1,2 @@
-# -本地生活外卖服务经营数据分析Operational-Data-Analysis-for-Local-Lifestyle-and-Food-Delivery-Services
+# -本地生活外卖服务经营数据分析
 一个针对“蛙小辣”“拌客”等10家外卖门店的深度经营分析项目。通过整合门店与广告数据，我系统梳理了营收、成本与流量转化表现，并利用Tableau构建了交互式看板。分析结论直接指导了运营策略优化，实现了降本增效的业务目标。
